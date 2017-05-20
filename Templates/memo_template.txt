@@ -1,0 +1,13 @@
+
+Memo - {{meeting_name}}
+-------------------------------------------------
+Meeting date:       {{date_of_meeting}}
+Meeting time:       {{time_of_meeting}}
+Meeting location:   {{location}}
+Meeting type:       {{type}}
+Attendance:         {{attendance}}
+Date created:       {{date}}
+-------------------------------------------------
+Notes:
+
+Action Items:
